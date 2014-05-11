@@ -1,0 +1,22 @@
+{
+	"name": "EaredSeal/Entity",
+	"description": "Useful entity",
+	"type": "library",
+	"license": ["BSD-3-Clause", "GPL-2.0", "GPL-3.0"],
+	"authors": [
+		{
+			"name": "Lukáš Kraus",
+			"email": "lukas.kraus@seznam.cz"
+		}
+	],
+	"version": "1.0.0",
+	"support": {
+		"email": "lukas.kraus@seznam.cz",
+		"issues": "https://github.com/EaredSeal/Entity/issues"
+	},
+	"autoload": {
+		"psr-4": {
+			"EaredSeal\\Entity\\": "Entity/"
+		}
+	}
+}
